@@ -1,6 +1,6 @@
 language: node_js
 node_js:
-  - node # uses most recent stable node version
+  - v12.13.1
 services:
   - postgresql # starts up postgres
 addons:
